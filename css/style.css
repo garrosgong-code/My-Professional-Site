@@ -6,15 +6,15 @@ body {
 }
 
 h1 {
-  color: #66BFBF;
+  color: #00a1ab;
   font-size: 5.625rem;
   line-height: 2;
-  margin: 50px auto 0 auto;
+  margin: 30px auto 30px auto;
   font-family: 'Sacramento', cursive;
 }
 
 h2 {
-  color: #66BFBF;
+  color: #00a1ab;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
@@ -70,7 +70,7 @@ a.nav-link {
 .colored-section {
   background-color: #E4F9F5;
   padding:auto;
-  background-image: url("https://cdn.pixabay.com/photo/2015/05/31/15/18/technology-792180_1280.jpg");
+  background-image: url("https://static1.squarespace.com/static/5905340e1b631b489217d165/t/5ea7ccabc7557d3463a2569a/1588055225139/SmithStStore0417_0009.jpg?format=1500w");
   background-repeat: no-repeat;
 }
 
